@@ -17,7 +17,13 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
-## PROGRAM:![Screenshot 2024-03-09 092845](https://github.com/Ibrahimovic07/Swapping-two-values/assets/109091628/f55ef96d-59e2-4a37-9ebb-456d02330074)
+## input : num1=int(input())
+num2=int(input())
+temp=num1
+num1=num2
+num2=temp
+print("Swapped values are:",num1,num2)
+## output:![Screenshot 2024-03-09 092845](https://github.com/Ibrahimovic07/Swapping-two-values/assets/109091628/f55ef96d-59e2-4a37-9ebb-456d02330074)
 
 
 
