@@ -18,6 +18,8 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## input : 
+### developed by : MOHAMMEDIBRAHIM MN
+### REG NO : 212223100034
 ```
 num1=int(input())
 num2=int(input())
@@ -26,9 +28,9 @@ num1=num2
 num2=temp
 print("Swapped values are:",num1,num2)
 ```
-## output:![Screenshot 2024-03-09 092845](https://github.com/Ibrahimovic07/Swapping-two-values/assets/109091628/f55ef96d-59e2-4a37-9ebb-456d02330074)
+## output:
 
-
+![alt text](<Screenshot 2024-03-09 092845.png>)
 
 
 ## RESULT:
