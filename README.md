@@ -30,7 +30,7 @@ print("Swapped values are:",num1,num2)
 ```
 ## output:
 
-![alt text](<Screenshot 2024-03-09 092845.png>)
+![alt text](<Screenshot 2024-04-09 034231.png>)
 
 
 ## RESULT:
